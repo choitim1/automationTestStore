@@ -1,0 +1,5 @@
+{ "chromeWebSecurity": false,
+"defaultCommandTimeout":5000,
+"baseUrl":"https://automationteststore.com/"
+
+}
